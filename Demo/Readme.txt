@@ -4,6 +4,6 @@
 3) StockPredict.ipynb chứa demo của bài được viết bằng Jupyter Notebook
 
 Cách chạy:
-Để cả 3 file cùng thư mục, dùng Jupyter Notebook để mở và chạy từng cell lệnh trong file StockPredict.ipynb theo thứ tự từ trên xuống.
+Đặt cả 3 file cùng thư mục, dùng Jupyter Notebook để mở và chạy từng cell lệnh trong file StockPredict.ipynb theo thứ tự từ trên xuống.
 
-Ngoài ra còn 1 file StockPredict.py được xuất ra từ Jupyter Notebook chứa code tương tự StockPredict.ipynb.
+Ngoài ra file StockPredict.py là file được xuất ra từ Jupyter Notebook chứa code tương tự StockPredict.ipynb.
